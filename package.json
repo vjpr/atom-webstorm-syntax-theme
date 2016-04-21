@@ -2,7 +2,7 @@
   "name": "atom-webstorm-syntax-theme",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "JetBrains WebStorm default light UI theme",
+  "description": "JetBrains WebStorm Default Light Syntax Theme for Atom",
   "keywords": [
     "syntax",
     "theme"
