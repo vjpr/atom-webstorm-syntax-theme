@@ -1,13 +1,13 @@
 {
-  "name": "vjpr-javascript-syntax",
+  "name": "atom-webstorm-syntax-theme",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "JetBrains WebStorm default light UI theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/vjpr-javascript-syntax",
+  "repository": "https://github.com/vjpr/atom-webstorm-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
